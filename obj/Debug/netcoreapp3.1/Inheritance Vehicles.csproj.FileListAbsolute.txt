@@ -1,0 +1,13 @@
+C:\Users\mecar\workspace\server side\Book One\Inheritance Vehicles\bin\Debug\netcoreapp3.1\Inheritance Vehicles.exe
+C:\Users\mecar\workspace\server side\Book One\Inheritance Vehicles\bin\Debug\netcoreapp3.1\Inheritance Vehicles.deps.json
+C:\Users\mecar\workspace\server side\Book One\Inheritance Vehicles\bin\Debug\netcoreapp3.1\Inheritance Vehicles.runtimeconfig.json
+C:\Users\mecar\workspace\server side\Book One\Inheritance Vehicles\bin\Debug\netcoreapp3.1\Inheritance Vehicles.runtimeconfig.dev.json
+C:\Users\mecar\workspace\server side\Book One\Inheritance Vehicles\bin\Debug\netcoreapp3.1\Inheritance Vehicles.dll
+C:\Users\mecar\workspace\server side\Book One\Inheritance Vehicles\bin\Debug\netcoreapp3.1\Inheritance Vehicles.pdb
+C:\Users\mecar\workspace\server side\Book One\Inheritance Vehicles\obj\Debug\netcoreapp3.1\Inheritance Vehicles.csprojAssemblyReference.cache
+C:\Users\mecar\workspace\server side\Book One\Inheritance Vehicles\obj\Debug\netcoreapp3.1\Inheritance Vehicles.AssemblyInfoInputs.cache
+C:\Users\mecar\workspace\server side\Book One\Inheritance Vehicles\obj\Debug\netcoreapp3.1\Inheritance Vehicles.AssemblyInfo.cs
+C:\Users\mecar\workspace\server side\Book One\Inheritance Vehicles\obj\Debug\netcoreapp3.1\Inheritance Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\mecar\workspace\server side\Book One\Inheritance Vehicles\obj\Debug\netcoreapp3.1\Inheritance Vehicles.dll
+C:\Users\mecar\workspace\server side\Book One\Inheritance Vehicles\obj\Debug\netcoreapp3.1\Inheritance Vehicles.pdb
+C:\Users\mecar\workspace\server side\Book One\Inheritance Vehicles\obj\Debug\netcoreapp3.1\Inheritance Vehicles.genruntimeconfig.cache
